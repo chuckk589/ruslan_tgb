@@ -10,7 +10,7 @@ export class ConfigSeeder extends Seeder {
     });
     em.create(Config, {
       name: 'BOT_TOKEN_PROD',
-      value: '1892460280:AAGMm7mrof7DhQN4BTLPWttcqEAaDjroGHI',
+      value: '1863509702:AAHj4bH--KGvJwl8oguY0Rj4Uo7bHsAiUNg',
     });
     em.create(Config, {
       name: 'RSS_UPDATE_INTERVAL_MIN',
